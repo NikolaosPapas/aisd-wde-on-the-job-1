@@ -25,7 +25,7 @@ nav ul {
 nav a {
     text-decoration: none;
     font-weight: bold;
-    color: #333;
+    color: #22386a;
 }
 
 /* Header */
@@ -50,11 +50,11 @@ header img {
 }
 
 .flavor-item {
-    border: 1px solid #ddd;
+    border: 1px solid #22386a;
     padding: 10px;
     border-radius: 8px;
     text-align: center;
-    background-color: #fafafa;
+    background-color: #d1c6ab;
 }
 
 /* Ensures images fit neatly within the grid */
@@ -77,4 +77,19 @@ footer {
     .flavor-gallery {
         grid-template-columns: 1fr; /* One column on small screens */
     }
+}
+
+body,nav,h1,h2,h3,h4,ul,li,head,p,form,a {
+    font-family: cursive;
+    color: #22386a;
+    text-shadow: 4px;
+}
+
+body,form{
+    padding: 1rem;
+    background-color:#dac492
+}
+
+form {
+    font-weight: bold;
 }
