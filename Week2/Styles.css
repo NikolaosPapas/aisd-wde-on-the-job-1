@@ -57,7 +57,7 @@ header img {
     background-color: #d1c6ab;
 }
 
-/* Ensures images fit neatly within the grid */
+/* Ensures images fit within the grid */
 .flavor-item img {
     width: 100%;
     height: 200px;
@@ -72,14 +72,14 @@ footer {
     text-align: center;
 }
 
-/* Responsive adjustments */
+/* Responsive adjustments according to Ai */
 @media (max-width: 600px) {
     .flavor-gallery {
-        grid-template-columns: 1fr; /* One column on small screens */
+        grid-template-columns: 1fr; /* One column for the small screens */
     }
 }
-
-body,nav,h1,h2,h3,h4,ul,li,head,p,form,a {
+/*overkill with all the elements*/
+body,nav,h1,h2,h3,h4,ul,li,head,p,form,a { 
     font-family: cursive;
     color: #22386a;
     text-shadow: 4px;
