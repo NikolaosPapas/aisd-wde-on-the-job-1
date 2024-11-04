@@ -17,7 +17,7 @@ const price6 = 14.99;
 
 const storeHours = "Monday - Friday: 9 AM - 6 PM, Saturday: 10 AM - 4 PM, Sunday: Closed";
 
-console.log(storeName, storeType);
+console.log(storeName);
 console.log(product1, price1);
 console.log(product2, price2);
 console.log(product3, price3);
