@@ -5,7 +5,7 @@ const product2 = "A Dozen Chocolate Chunk Cookie";
 const product3 = "Half Dozen Italian Butter Cookie";
 const product4 = "A Dozen Italian Butter Cookie";
 const product5 = "Half Dozen Plain Chocolate Cookie";
-const product6 = "A Dozen Plain Chocolate Cookie":
+const product6 = "A Dozen Plain Chocolate Cookie";
 
 
 const price1 = 12.99;
